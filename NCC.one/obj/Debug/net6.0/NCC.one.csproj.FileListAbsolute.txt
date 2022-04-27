@@ -1,0 +1,15 @@
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\dotnet123\NCC.one\bin\Debug\net6.0\NCC.one.exe
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\dotnet123\NCC.one\bin\Debug\net6.0\NCC.one.deps.json
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\dotnet123\NCC.one\bin\Debug\net6.0\NCC.one.runtimeconfig.json
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\dotnet123\NCC.one\bin\Debug\net6.0\NCC.one.dll
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\dotnet123\NCC.one\bin\Debug\net6.0\NCC.one.pdb
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\dotnet123\NCC.one\obj\Debug\net6.0\NCC.one.csproj.AssemblyReference.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\dotnet123\NCC.one\obj\Debug\net6.0\NCC.one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\dotnet123\NCC.one\obj\Debug\net6.0\NCC.one.AssemblyInfoInputs.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\dotnet123\NCC.one\obj\Debug\net6.0\NCC.one.AssemblyInfo.cs
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\dotnet123\NCC.one\obj\Debug\net6.0\NCC.one.csproj.CoreCompileInputs.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\dotnet123\NCC.one\obj\Debug\net6.0\NCC.one.dll
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\dotnet123\NCC.one\obj\Debug\net6.0\refint\NCC.one.dll
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\dotnet123\NCC.one\obj\Debug\net6.0\NCC.one.pdb
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\dotnet123\NCC.one\obj\Debug\net6.0\NCC.one.genruntimeconfig.cache
+C:\Users\PAVILION  power\Desktop\6th sem\ncc\lab\dotnet123\NCC.one\obj\Debug\net6.0\ref\NCC.one.dll
