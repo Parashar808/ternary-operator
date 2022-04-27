@@ -3,7 +3,7 @@ namespace ConsoleApp
 {
     public class PRogram{
     public static void Main(){
-       Console.WriteLine("i am a boy .");
+       Console.WriteLine("this is a test program ");
        test();
         return ;
 
